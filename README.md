@@ -6,4 +6,4 @@ Learn how to temporarily save unfinished work.
 - git stash
 - git stash list
 - git stash pop
-- dir
+- diff
